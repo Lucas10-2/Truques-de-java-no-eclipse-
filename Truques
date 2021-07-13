@@ -1,0 +1,21 @@
+    public static void main(String[] args) {
+		System.out.println("Olá mundo!!!");
+    // Para fazer um comentário  de uma linha se usa //
+		
+    /*
+		 * Ctrl+M= maximiza e diminui o código 
+		 * Ctrl+F11= executa o progama 
+		 * Toda sentença de código tem que terminar com (;) 
+		 * O par de {} significa blocos de código
+		 * Main é a "porta de entrada" de um progama 
+		 * Ctrl+espaço= traz as opçõesdisponiveis  para as palavras escritas 
+		 * Ctrl+Shift+F= organiza o código 
+     Para fazer comentários em multiplas linhas se usa /* para começar e para terminar se usa o inverso */
+      * Ctrl+barra/= abre comentário de uma linha, se selecionado uma parte 
+      * ele torna em comentário e "descomenta" também  	 
+		      /** abre um comentário Java Doc, para fechar o comentário Java Doc
+		           se usa */
+		/** @author Lucas  
+          @since Java JDK 16.0.1 e Eclipse 2021-06 (4.20.0) Paraná */
+	}
+}
